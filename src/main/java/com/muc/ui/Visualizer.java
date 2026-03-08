@@ -12,10 +12,10 @@ public class Visualizer {
     private static final String ANSI_CLEAR = "\033[H\033[2J";
 
     public void showGrouchyMuc() {
-        System.out.println(ANSI_PINK + "|\\__/,|   (`\\");
-        System.out.println(" _.|o o  |_   ) )");
-        System.out.println("-(((---(((--------");
-        System.out.println("  MUC DANG QUAU!!!" + ANSI_RESET);
+        System.out.println(ANSI_PINK + "      |\\__/,|   (`\\");
+        System.out.println("    _.|o o  |_   ) )");
+        System.out.println("  -(((---(((--------");
+        System.out.println("     MỰC ĐANG QUẠU!!!" + ANSI_RESET);
     }
 
     public void renderWithEmojis(Map map, Node currentMuc) {

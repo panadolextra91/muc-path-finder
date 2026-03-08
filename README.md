@@ -9,7 +9,7 @@
 - 🎬 **Animation sống động**: Hiệu ứng chuyển động từng bước trên Terminal với Emoji đáng yêu.
 - 🎨 **Giao diện "Hệ Hồng Cánh Sen"**: Sử dụng mã màu ANSI bắt mắt và cân đối icon double-width.
 - 👿 **Thử thách Apu**: Tránh né Apu để không bị "bế đi tắm" bất thình lình.
-- 💢 **Cảm xúc thực tế**: Mực biết "quạu" (ASCII Art) khi không tìm thấy đường đi.
+- **Cảm xúc thực tế**: Mực biết "quạu" (ASCII Art cực chuẩn) khi không tìm thấy đường đi.
 
 ## 🏗️ Kiến trúc hệ thống
 

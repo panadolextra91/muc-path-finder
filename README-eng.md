@@ -9,7 +9,7 @@
 - 🎬 **Vibrant Animation**: Step-by-step movement in the terminal with adorable emojis.
 - 🎨 **"Everblush" Aesthetic**: Uses ANSI colors and balanced double-width icons for a premium look.
 - 👿 **Apu Challenge**: Avoid the Apu obstacle to prevent Mực from being taken for a bath!
-- 💢 **Realistic Emotions**: Mực displays ASCII Art (Grouchy Mực) when no path is found.
+- **Realistic Emotions**: Mực displays premium ASCII Art (Grouchy Mực) when no path is found.
 
 ## 🏗️ System Architecture
 
